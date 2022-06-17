@@ -1,0 +1,37 @@
+h2 {
+    color:rgb(7, 7, 7);
+    font-family: Georgia; 
+    font-size: 20px;
+    text-align: center;
+}
+ h2 span{
+    color: rgb(84, 60, 223);
+    font-size: 50px;
+} p {
+    color:rgb(36, 5, 65);
+    font-family: Cambria;
+    text-align: justify;
+    line-height: 20px;
+}
+a {
+    text-decoration: none;
+    color:black;
+    background-color: rgb(238, 241, 62);
+    display: block;
+    width:140px;
+    height:20px;
+    text-align: center;
+    line-height:20px;
+}
+#span-one
+{
+    color:red;
+    font-family:inherit;
+    font-size: 50px;
+
+}
+#span-two
+{
+    color:coral;
+    font-family: 'Franklin Gothic Medium';
+}
